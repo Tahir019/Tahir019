@@ -10,23 +10,23 @@
 
 - 🔭 I’m currently working on **My SQL Database**
 
-- 🌱 I’m currently learning **Python , JAVA**
+- 🌱 I’m currently learning **DSA with C++, JavaScript**
 
-- 📝 I regularly write articles on [tahirahmad01.blogspot.com](tahirahmad01.blogspot.com)
+- 📝 I regularly write articles on [tahirahmad01.blogspot.com](https://microcoder001.blogspot.com/)
 
-- 💬 Ask me about **C, C++, HTML, CSS, JS.**
+- 💬 Ask me about **C, C++, HTML, CSS, JS, JAVA, Python, etc**
 
 - 📫 How to reach me **tahirahmadkhan2004@gmail.com**
 
-- ⚡ Fun fact **I am a Nasheed lover.**
+- ⚡ Fun fact **I once debugged a code for so long that I started dreaming in code syntax. 😄💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/coder_micro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coder_micro" height="30" width="40" /></a>
 <a href="https://fb.com/tahir ahmad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahir ahmad khan" height="30" width="40" /></a>
 <a href="https://instagram.com/microcoder001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="microcoder001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@computerwallah001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="computer wallah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tahir0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahir ahmad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@microcoder001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Micro Coder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tahir019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahir ahmad" height="30" width="40" /></a>
 </p>
 
 
