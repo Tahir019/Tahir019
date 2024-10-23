@@ -5,7 +5,7 @@
    🚀 Frontend Developer | Tech Enthusiast | Freelancer 🚀
 </h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="border-radius: 10px; box-shadow: 0 0 15px #00FFC6;">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 10px; box-shadow: 0 0 15px #00FFC6;">
 
 <div align="left" style="background-color:#141414;padding:15px;border-radius:10px;margin-bottom:20px;">
     <p style="color:#9ae6b4;">
