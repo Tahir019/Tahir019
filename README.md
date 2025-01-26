@@ -32,7 +32,7 @@
 ---
 
 ### 📈 GitHub Stats:
-<div align="center" style="display: flex; justify-content: space-around; background-color:#141414; padding:20px; border-radius:10px;">
+<div align="center" style="display: flex; justify-content: space-around; background-color:#12; padding:20px; border-radius:10px;">
    <img src="https://github-readme-stats.vercel.app/api?username=tahir019&show_icons=true&theme=radical" alt="GitHub Stats" width="450px" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir019&theme=radical" alt="GitHub Streak Stats" width="450px" />
 </div>
