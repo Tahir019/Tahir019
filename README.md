@@ -16,10 +16,10 @@
 ### About Me 👨‍💻:
 - 👨‍🎓 Currently pursuing **MCA** at **Marwadi College, Ranchi** (2024-26)
 - 🎓 Graduated with a **BSc in IT** from **Dr. Shyama Prasad Mukherjee University** (2024)  
-- 🌱 Learning **DSA with C++ & JavaScript**
+- 🌱 Learning **DSA with JAVA & JavaScript**
 - 💡 Love experimenting with **React** and **Node.js**
 - 📝 I regularly write on my blog: [MicroCoder's Blog](https://microcoder001.blogspot.com)
-- 💬 Ask me about **Web Development, C, C++, JavaScript, Python**
+- 💬 Ask me about **Web Development, C, C++, JavaScript, Python and JAVA**
 - ⚡ Fun Fact: I’ve spent so much time coding that my brain now auto-corrects life in syntax! 💻😄
 
 ---
@@ -32,10 +32,12 @@
 ---
 
 ### 📈 GitHub Stats:
-<div align="center" style="display: flex; justify-content: space-around; background-color:#12; padding:20px; border-radius:10px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=tahir019&show_icons=true&theme=radical" alt="GitHub Stats" width="450px" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir019&theme=radical" alt="GitHub Streak Stats" width="450px" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahir019&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir019&theme=radical" alt="GitHub Streak Stats" width="45%" />
 </div>
+
 
 ---
 
@@ -58,7 +60,7 @@
 ---
 
 ### 🎯 Currently Exploring:
-- 📚 **Learning:** Diving deep into **React**, **DSA in C++**, and **JavaScript**.
+- 📚 **Learning:** Diving deep into **React**, **DSA in JAVA**, and **JavaScript**.
 - 🌐 **Blogging:** Sharing my insights on my [Blog](https://microcoder001.blogspot.com).
 - 🎯 **CareerLinker:** Building innovative projects as part of my **MCA**.
 
