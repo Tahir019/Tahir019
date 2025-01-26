@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahir019&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir019&theme=radical" alt="GitHub Streak Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir019&theme=radical" alt="GitHub Streak Stats" width="55%" />
 </div>
 
 
